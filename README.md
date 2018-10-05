@@ -1,4 +1,4 @@
 # hello-world
-practice of building a repository
-author:  katy
-changes: to include the author
+practice of building a repository\n
+author:  katy\n
+changes: to include the author\n
